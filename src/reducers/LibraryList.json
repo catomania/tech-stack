@@ -1,0 +1,47 @@
+[
+  {
+    "id": 0,
+    "title": "Uni",
+    "description": "Sea urchin gonads. Exceptionally delicious to eat. Ocean pudding."
+  },
+  {
+    "id": 1,
+    "title": "Wagyu",
+    "description": "Intensely marbled Japanese beef. Best eaten on a skewer at a Japanese food market."
+  },
+  {
+    "id": 2,
+    "title": "Baguette",
+    "description": "A French bread with a crusty exterior and soft interior. Commonly used as a sandwich bread."
+  },
+  {
+    "id": 3,
+    "title": "Oyster",
+    "description": "Consider the oyster. They taste like violets. Silky and plump, I prefer sweet oysters to briny ones."
+  },
+  {
+    "id": 4,
+    "title": "Croissants",
+    "description": "Flakey and buttery, these treats run out far too quickly at the office."
+  },
+  {
+    "id": 5,
+    "title": "Caviar",
+    "description": "Red caviar comes from salmon eggs, they're fun to burst against the roof of your mouth. The fancier and more expensive varities are good too."
+  },
+  {
+    "id": 6,
+    "title": "Pasta",
+    "description": "Easy, cheap and plentiful food to cook and eat when it's late at night and you're craving comfort food. Exceptional value for the price."
+  },
+  {
+    "id": 7,
+    "title": "Biscuits",
+    "description": "Flakey and buttery biscuits are best eaten with sausage gravy or butter with honey and salt."
+  },
+  {
+    "id": 8,
+    "title": "Goat Cheese",
+    "description": "Tangy, creamy, and reminds me of a sunny day in pastoral England."
+  }
+]
